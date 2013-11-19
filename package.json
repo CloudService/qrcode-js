@@ -1,0 +1,21 @@
+{
+  "name": "qrcode-js",
+  "version": "0.0.1",
+  "author": "Jeffrey Sun",
+  "description": "Generate qr code for string data",
+  "main": "index.js",
+  "engines": {
+    "node": "0.10.x"
+  },
+   "dependencies": {
+  },
+   "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "qrcode"
+  ]
+}
