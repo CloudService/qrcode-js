@@ -4,9 +4,6 @@
   "author": "Jeffrey Sun",
   "description": "Generate qr code for string data",
   "main": "index.js",
-  "engines": {
-    "node": "0.10.x"
-  },
    "dependencies": {
   },
    "devDependencies": {
